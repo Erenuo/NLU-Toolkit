@@ -43,5 +43,6 @@ curl -X POST \
 
 ```
 
-You can run python client.py file to test the API
 -----
+
+You can run "python client.py" to test the API
