@@ -1,8 +1,5 @@
 from transformers import pipeline
-from typing import Optional
 
-# --- Module-Level Variable ---
-# This will hold the loaded summarization pipeline.
 summarizer_pipeline = None
 
 def load_abstractive_model(model_name: str = "facebook/bart-large-cnn"):

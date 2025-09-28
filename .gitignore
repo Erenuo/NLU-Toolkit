@@ -1,16 +1,16 @@
-# Python cache ve sanal ortam dosyaları
+# Python cache
 __pycache__/
 venv/
 *.pyc
 
-# Veri setleri ve indirilen kütüphane verileri
+# Data
 nltk_data/
 *.csv
 *.zip
 
-# Kayıtlı modeller
+# Models
 saved_model/
 *.joblib
 
-# Sistem dosyaları
+# System
 .DS_Store
